@@ -1,0 +1,10 @@
+# 中间分片文件（翻译过程的临时产物，非交付物）
+translated/.parts/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+._*
+
+# 本地配置
+device-code.json
